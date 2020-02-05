@@ -1,0 +1,24 @@
+{
+  "name": "km_node_script_example",
+  "version": "1.0.0",
+  "description": "keyboard maestro node shell example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'b a n a n a' | node ./slugify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninjakttty/km_node_script_example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninjakttty/km_node_script_example/issues"
+  },
+  "homepage": "https://github.com/ninjakttty/km_node_script_example#readme",
+  "dependencies": {
+    "get-stdin": "^7.0.0",
+    "slugify": "^1.3.6"
+  }
+}
