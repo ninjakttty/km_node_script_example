@@ -20,6 +20,12 @@ or
 npm test
 ```
 
+if you are running node `13.3` or later
+
+```shell
+echo "banana slug" | ./slugify.mjs
+```
+
 ## to run from KM
 
 ![Alt text](/screenshots/km_shots.png?raw=true 'Optional Title')
